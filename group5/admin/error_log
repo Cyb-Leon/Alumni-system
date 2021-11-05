@@ -1,0 +1,4 @@
+[21-Sep-2021 10:42:34 Africa/Johannesburg] PHP Notice:  Undefined index: bio in /home/lencyber/public_html/group5/admin/admin_class.php on line 59
+[21-Sep-2021 10:42:34 Africa/Johannesburg] PHP Notice:  Trying to access array offset on value of type null in /home/lencyber/public_html/group5/admin/admin_class.php on line 59
+[21-Sep-2021 10:43:09 Africa/Johannesburg] PHP Notice:  Undefined index: bio in /home/lencyber/public_html/group5/admin/admin_class.php on line 59
+[21-Sep-2021 10:43:09 Africa/Johannesburg] PHP Notice:  Trying to access array offset on value of type null in /home/lencyber/public_html/group5/admin/admin_class.php on line 59
